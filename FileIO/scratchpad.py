@@ -1,0 +1,1 @@
+print('Adlaide'.strip('del'))
